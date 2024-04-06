@@ -6,4 +6,4 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 ## Demo Old Ver
 ```bash
 [blzd-frontend](https://blzd-frontend.vercel.app/)
-``
+```
